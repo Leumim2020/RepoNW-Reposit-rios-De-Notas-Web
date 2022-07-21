@@ -1,0 +1,36 @@
+
+
+aside,ul,li,p:hover{
+			cursor: pointer;
+		}
+		aside,ul,li,a{
+			color: #808080;
+			font-family: Arial;
+			font-size: 18px;
+		}
+		#colorlib-page .color{
+			color: black;
+		}	
+		
+		.border{
+			padding: 15px;
+			background-color: white;
+			border-radius: 5px;
+		}	
+		
+		.bg
+		.table-wrap table{
+			margin-top: 60px;
+		}
+		.border th{
+			padding-right: 6px;
+		}
+		.border tbody td input{
+			border: 1px solid black ;
+		}
+		
+		#colorlib-main section .row .col-md-12 .table-wrap .table tbody tr td a{
+
+			
+
+		}
